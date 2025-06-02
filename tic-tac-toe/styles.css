@@ -141,6 +141,7 @@ button.winner::after {
 
     #header {
         font-size: 30px;
+        width: 50%;
     }
 
     #play-header {
